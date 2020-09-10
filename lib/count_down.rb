@@ -1,4 +1,7 @@
 # Write your code here
-let count_number = 0
-while count < 11 
-count = count - 1
+
+count = 10
+while count >=  1 do
+  put
+count -= 1
+end
